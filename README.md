@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱 I’m currently learning Flutter<br>💬 Ask me about Flutter<br>📫 How to reach me: dilmanarif01@gmail.com
+🌱 I’m currently learning Laravel<br>💬 Ask me about Flutter<br>📫 How to reach me: dilmanarif01@gmail.com
 
 
 <!-- ## 🌐 Socials:
