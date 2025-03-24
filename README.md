@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱 I’m currently learning Flutter<br>💬 Ask me about Flutter<br>📫 How to reach me: dilmandev@gmail.com
+🌱 I’m currently learning Native Android Development - Kotlin<br>💬 Ask me about Flutter<br>📫 How to reach me: dilmandev@gmail.com
 
 
 
